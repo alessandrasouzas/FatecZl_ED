@@ -1,2 +1,2 @@
 # FatecZl_ED
-Resolução_exercicios_estrutura_dados
+Resolução_exercicios_estrutura_dados_Java
